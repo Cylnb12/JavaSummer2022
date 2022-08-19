@@ -20,4 +20,7 @@ public class utils {
     public static int kupunuAl(Integer x) {
         return x * x * x;
     }
+    public static double yariyaBol(double x){
+        return x/2.0;
+    }
 }
